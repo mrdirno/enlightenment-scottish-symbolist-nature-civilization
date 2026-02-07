@@ -1,0 +1,160 @@
+{
+  "book_id": "enlightenment_scottish_symbolist_nature_civilization",
+  "title": "The Cipher of the Glen",
+  "tagline": "When a scholar seeks to decode an ancient stone, he awakens a living language of the land that civilization has forgotten.",
+  "target_words": 70000,
+  "actual_words": 79120,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Land as Living Text",
+    "The Violence of Rational Decoding",
+    "Ancestral Knowledge vs. Academic Extraction",
+    "Civilization as a Disruptive Symbol"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Stone and the Veil",
+      "words": 3300
+    },
+    {
+      "ch": 2,
+      "title": "The Keeper and the Scholar",
+      "words": 3200
+    },
+    {
+      "ch": 3,
+      "title": "The Language of Moss and Blood",
+      "words": 3100
+    },
+    {
+      "ch": 4,
+      "title": "First Reading of the Stone",
+      "words": 3400
+    },
+    {
+      "ch": 5,
+      "title": "The Glen's Rejection",
+      "words": 3300
+    },
+    {
+      "ch": 6,
+      "title": "Veil Thin",
+      "words": 3200
+    },
+    {
+      "ch": 7,
+      "title": "What the Lidar Did Not See",
+      "words": 3500
+    },
+    {
+      "ch": 8,
+      "title": "The University's Demand",
+      "words": 3100
+    },
+    {
+      "ch": 9,
+      "title": "A Splinter in the Flesh of the World",
+      "words": 3400
+    },
+    {
+      "ch": 10,
+      "title": "The Cailleach's Breath",
+      "words": 3300
+    },
+    {
+      "ch": 11,
+      "title": "Thorne's Theory Unravels",
+      "words": 3200
+    },
+    {
+      "ch": 12,
+      "title": "Iain's True Notation",
+      "words": 3500
+    },
+    {
+      "ch": 13,
+      "title": "The Storm of Naming",
+      "words": 3400
+    },
+    {
+      "ch": 14,
+      "title": "Flight of the Old Gods",
+      "words": 3300
+    },
+    {
+      "ch": 15,
+      "title": "The Heart of the Archive",
+      "words": 3200
+    },
+    {
+      "ch": 16,
+      "title": "Sacrifice of Understanding",
+      "words": 3400
+    },
+    {
+      "ch": 17,
+      "title": "The Burn Speaks Plain",
+      "words": 3300
+    },
+    {
+      "ch": 18,
+      "title": "Thorne's Choice",
+      "words": 3100
+    },
+    {
+      "ch": 19,
+      "title": "The Cipher Revealed",
+      "words": 3500
+    },
+    {
+      "ch": 20,
+      "title": "Not a Map, but a Mirror",
+      "words": 3400
+    },
+    {
+      "ch": 21,
+      "title": "The Last Knowing Man",
+      "words": 3300
+    },
+    {
+      "ch": 22,
+      "title": "Civilization's Quiet Hunger",
+      "words": 3200
+    },
+    {
+      "ch": 23,
+      "title": "The Stone Accepts",
+      "words": 3400
+    },
+    {
+      "ch": 24,
+      "title": "The Veil Thickens",
+      "words": 3500
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a modern geologist's seismic survey causes a localized, inexplicable weather phenomenon that only an old crofter can interpret.",
+      "Create a journal entry from Alistair Thorne's perspective after his first night in the glen, where the sounds of the forest begin to form intelligible, threatening patterns.",
+      "Draft a myth from Iain's tradition explaining why a specific moss grows only on north-facing stones, and what secret it keeps.",
+      "Write a dialogue where a university board debates the 'acquisition' of the Cailleach's Stone, treating its living symbolism as a mere data set to be owned."
+    ],
+    "technical": [
+      "Design a conceptual 'Symbolist Engine'—a set of rules or a small program that generates natural descriptions where landscape features metaphorically react to human intrusion.",
+      "Create a speculative data schema for 'Thorne's Archive,' attempting to digitally categorize the glen's living symbols, complete with fields that would inevitably fail to capture the truth."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "John Muir",
+      "Sir Walter Scott",
+      "Robert Burns",
+      "David Hume"
+    ]
+  },
+  "cover_prompt": "A lone scholar, his back to us, kneels in desperate reverence before a massive, intricately carved Pictish stone that glows with a faint, internal bioluminescence, [Detailed Scene & Context: set in a mist-shrouded Scottish glen at twilight where the very ferns, moss, and exposed roots seem to twist into ancient Ogham script, the landscape itself whispering and shifting as if awakening, with distant, ghostly outlines of standing stones watching silently], [Artistic Style & Medium: in the atmospheric and symbolic style of a Scottish Colourist like John Duncan or the mystical naturalism of Thomas Moran, blending precise academic detail with visionary symbolism, oil painting on canvas with textured impasto], [Composition & Camera: book cover framing, a centered and imposing composition where the stone dominates, shot from a low, dramatic angle looking up at the monolith to emphasize its power and the scholar's insignificance], [Lighting & Color Palette: dramatic chiaroscuro lighting where the stone’s ethereal green and gold glow cuts through the deep violet and slate grey twilight, casting long, tangled shadows that look like writing, a palette of heather purples, mossy greens, peat browns, and cold stone grey contrasted with unnatural luminous hues], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
