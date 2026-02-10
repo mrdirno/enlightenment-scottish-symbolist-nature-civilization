@@ -1,8 +1,12 @@
+# Chapter 1
+
 ## **THE STONE AND THE VEIL**
 
 ### **Chapter 1**
 
-The stag was dead, but the forest was not done with it.
+Edinburgh’s new geometry of cobblestone and gaslight ended where the marsh began. Here, the old peat sighed its damp breath up through Alexander’s boots, a slow, stubborn argument against the city’s clean, rational angles.
+
+
 
 Iain MacAnndra’s knife, a grey sliver of old steel, parted the hide at the throat. Steam rose, not in a cloud, but in slow, spiralling threads that seemed to hesitate in the still, cold air of the Glen of Shadows. It was not the heat of life escaping; it was the last breath of the hill, being called back. He worked silently, his hands sure and red, the only sounds the soft *shush* of blade through tissue, the drip of dark blood on bronze moss, and the distant, eternal complaint of the Allt Coire na Saobhaidh burn over its stones. The pines stood witness, their trunks the colour of dried blood in the late afternoon light.
 
